@@ -1,0 +1,21 @@
+
+
+.add-container {
+	width: 100%;
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	padding: 4% 12% 15% 12%;
+}
+
+
+.add-container > .url > input {
+	width: 100%;
+	font-size: 1.2em;
+}
+
+.add-container > .add button {
+	margin-top: 30px;
+	height: 60px;
+	font-size: 1.2em;
+}

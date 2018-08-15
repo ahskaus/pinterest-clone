@@ -1,0 +1,23 @@
+.top-bar-component .main-nav {
+	background-color: black;
+	display: flex;
+	list-style: none;
+}
+
+
+.top-bar-component .main-nav li:first-child {
+	margin-left: auto;
+}
+
+
+.top-bar-component .main-nav a, {
+	cursor: pointer;
+}
+
+.top-bar-component .main-nav a, .top-bar-component .main-nav span {
+	margin: 10px;
+	background: black;
+	color: white;
+	display: block;
+	text-decoration: none;
+}
